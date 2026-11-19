@@ -1,0 +1,10 @@
+torch>=2.5
+transformers>=4.45
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+matplotlib>=3.8
+pillow>=10.0
+pyarrow>=16.0
+tqdm>=4.66
+huggingface-hub>=0.25
