@@ -1,0 +1,812 @@
+{
+  "0": {
+    "rows": 14574,
+    "active_budget": 64,
+    "streams": {
+      "clip": {
+        "member_selection_fraction": [
+          0.2660967304789351,
+          0.3897565870728695,
+          0.3441466824481954
+        ],
+        "mean_support_entropy": 0.9795132080720717,
+        "median_support_entropy": 0.9843368200230046,
+        "mean_max_member_share": 0.40704658124056536,
+        "member_switch_fraction": 0.977768629065459,
+        "mean_block_energy_entropy": 0.40132543431588474,
+        "support_entropy_correct": 0.9800172408604806,
+        "support_entropy_incorrect": 0.9765175868069937,
+        "unique_atoms_used": 3750,
+        "total_atoms": 12288,
+        "unique_atom_fraction": 0.30517578125,
+        "entropy_quantiles": [
+          {
+            "low": 0.8698591891805871,
+            "high": 0.9710819415841659,
+            "rows": 3529,
+            "accuracy": 0.8364975913856617
+          },
+          {
+            "low": 0.9710819415841659,
+            "high": 0.9843368200230046,
+            "rows": 3628,
+            "accuracy": 0.8627342888643881
+          },
+          {
+            "low": 0.9843368200230046,
+            "high": 0.9932649289475831,
+            "rows": 3677,
+            "accuracy": 0.8588523252651619
+          },
+          {
+            "low": 0.9932649289475831,
+            "high": 0.9997789043424504,
+            "rows": 3740,
+            "accuracy": 0.8649732620320856
+          }
+        ]
+      },
+      "siglip": {
+        "member_selection_fraction": [
+          0.26818413784822287,
+          0.360254134074379,
+          0.3715617280773981
+        ],
+        "mean_support_entropy": 0.9814916149934801,
+        "median_support_entropy": 0.9850568223215077,
+        "mean_max_member_share": 0.4016474114862083,
+        "member_switch_fraction": 0.9874433923425278,
+        "mean_block_energy_entropy": 0.24986456530693385,
+        "support_entropy_correct": 0.9814599122947171,
+        "support_entropy_incorrect": 0.9816800338439177,
+        "unique_atoms_used": 3255,
+        "total_atoms": 12288,
+        "unique_atom_fraction": 0.264892578125,
+        "entropy_quantiles": [
+          {
+            "low": 0.8700137893746899,
+            "high": 0.9750544458113695,
+            "rows": 3547,
+            "accuracy": 0.8632647307583874
+          },
+          {
+            "low": 0.9750544458113695,
+            "high": 0.9850568223215077,
+            "rows": 3635,
+            "accuracy": 0.8440165061898212
+          },
+          {
+            "low": 0.9850568223215077,
+            "high": 0.9936626487697715,
+            "rows": 3650,
+            "accuracy": 0.8589041095890411
+          },
+          {
+            "low": 0.9936626487697715,
+            "high": 0.9997789043424504,
+            "rows": 3742,
+            "accuracy": 0.857830037413148
+          }
+        ]
+      },
+      "dino": {
+        "member_selection_fraction": [
+          0.2527499742692466,
+          0.39307156580211333,
+          0.35417845992864005
+        ],
+        "mean_support_entropy": 0.9735634248611172,
+        "median_support_entropy": 0.9785438166817101,
+        "mean_max_member_share": 0.41718878653766983,
+        "member_switch_fraction": 0.9486071085494716,
+        "mean_block_energy_entropy": 0.4867233287702415,
+        "support_entropy_correct": 0.9739409419565972,
+        "support_entropy_incorrect": 0.9713197251154686,
+        "unique_atoms_used": 5619,
+        "total_atoms": 12288,
+        "unique_atom_fraction": 0.457275390625,
+        "entropy_quantiles": [
+          {
+            "low": 0.780857398502901,
+            "high": 0.9620342575507262,
+            "rows": 3501,
+            "accuracy": 0.8429020279920023
+          },
+          {
+            "low": 0.9620342575507262,
+            "high": 0.9785438166817101,
+            "rows": 3627,
+            "accuracy": 0.8422939068100358
+          },
+          {
+            "low": 0.9785438166817101,
+            "high": 0.9894489003269826,
+            "rows": 3734,
+            "accuracy": 0.8660953401178361
+          },
+          {
+            "low": 0.9894489003269826,
+            "high": 0.9997789043424504,
+            "rows": 3712,
+            "accuracy": 0.8714978448275862
+          }
+        ]
+      }
+    }
+  },
+  "1": {
+    "rows": 15488,
+    "active_budget": 64,
+    "streams": {
+      "clip": {
+        "member_selection_fraction": [
+          0.32397360052944213,
+          0.38484330610795453,
+          0.2911830933626033
+        ],
+        "mean_support_entropy": 0.9820302239152191,
+        "median_support_entropy": 0.9887000023560322,
+        "mean_max_member_share": 0.40451680333161155,
+        "member_switch_fraction": 0.9637784090909091,
+        "mean_block_energy_entropy": 0.2035795195793493,
+        "support_entropy_correct": 0.9829259204954831,
+        "support_entropy_incorrect": 0.9808060322566184,
+        "unique_atoms_used": 4294,
+        "total_atoms": 12288,
+        "unique_atom_fraction": 0.3494466145833333,
+        "entropy_quantiles": [
+          {
+            "low": 0.7974126641173812,
+            "high": 0.9755307720176264,
+            "rows": 3819,
+            "accuracy": 0.5331238544121498
+          },
+          {
+            "low": 0.9755307720176264,
+            "high": 0.9887000023560322,
+            "rows": 3802,
+            "accuracy": 0.5823250920568122
+          },
+          {
+            "low": 0.9887000023560322,
+            "high": 0.9942812127803273,
+            "rows": 3921,
+            "accuracy": 0.5909206834991074
+          },
+          {
+            "low": 0.9942812127803273,
+            "high": 0.9997789043424504,
+            "rows": 3946,
+            "accuracy": 0.6023821591485048
+          }
+        ]
+      },
+      "siglip": {
+        "member_selection_fraction": [
+          0.3284276536673554,
+          0.3665791661286157,
+          0.30499318020402894
+        ],
+        "mean_support_entropy": 0.9851088271648029,
+        "median_support_entropy": 0.9894489003269826,
+        "mean_max_member_share": 0.39733987603305787,
+        "member_switch_fraction": 0.9820506198347108,
+        "mean_block_energy_entropy": 0.13504846097089931,
+        "support_entropy_correct": 0.9857743292272048,
+        "support_entropy_incorrect": 0.9841992534413734,
+        "unique_atoms_used": 3897,
+        "total_atoms": 12288,
+        "unique_atom_fraction": 0.317138671875,
+        "entropy_quantiles": [
+          {
+            "low": 0.8013186160632794,
+            "high": 0.9785438166817103,
+            "rows": 3721,
+            "accuracy": 0.5377586670249933
+          },
+          {
+            "low": 0.9785438166817103,
+            "high": 0.9894489003269826,
+            "rows": 3951,
+            "accuracy": 0.5882055175904835
+          },
+          {
+            "low": 0.9894489003269826,
+            "high": 0.9958004852534956,
+            "rows": 3890,
+            "accuracy": 0.5938303341902313
+          },
+          {
+            "low": 0.9958004852534956,
+            "high": 0.9997789043424504,
+            "rows": 3926,
+            "accuracy": 0.5881304126337239
+          }
+        ]
+      },
+      "dino": {
+        "member_selection_fraction": [
+          0.3315570925878099,
+          0.3941589859891529,
+          0.2742839214230372
+        ],
+        "mean_support_entropy": 0.9770973377076765,
+        "median_support_entropy": 0.9843368200230044,
+        "mean_max_member_share": 0.41282363765495866,
+        "member_switch_fraction": 0.9431172520661157,
+        "mean_block_energy_entropy": 0.37432677431179107,
+        "support_entropy_correct": 0.9790774076952259,
+        "support_entropy_incorrect": 0.9743910806831287,
+        "unique_atoms_used": 5692,
+        "total_atoms": 12288,
+        "unique_atom_fraction": 0.4632161458333333,
+        "entropy_quantiles": [
+          {
+            "low": 0.7567751872715525,
+            "high": 0.9688039099777048,
+            "rows": 3845,
+            "accuracy": 0.49856957087126136
+          },
+          {
+            "low": 0.9688039099777048,
+            "high": 0.9843368200230044,
+            "rows": 3876,
+            "accuracy": 0.5575335397316822
+          },
+          {
+            "low": 0.9843368200230044,
+            "high": 0.9932649289475832,
+            "rows": 3795,
+            "accuracy": 0.6010540184453228
+          },
+          {
+            "low": 0.9932649289475832,
+            "high": 0.9997789043424504,
+            "rows": 3972,
+            "accuracy": 0.6508056394763343
+          }
+        ]
+      }
+    }
+  },
+  "2": {
+    "rows": 21848,
+    "active_budget": 64,
+    "streams": {
+      "clip": {
+        "member_selection_fraction": [
+          0.2481090946539729,
+          0.4576105364335408,
+          0.29428036891248627
+        ],
+        "mean_support_entropy": 0.9569436525448108,
+        "median_support_entropy": 0.9634951148421657,
+        "mean_max_member_share": 0.45964662097217135,
+        "member_switch_fraction": 0.7261076528744049,
+        "mean_block_energy_entropy": 0.3195119584166427,
+        "support_entropy_correct": 0.9589779862683755,
+        "support_entropy_incorrect": 0.950553777930157,
+        "unique_atoms_used": 3960,
+        "total_atoms": 12288,
+        "unique_atom_fraction": 0.322265625,
+        "entropy_quantiles": [
+          {
+            "low": 0.7118752585738228,
+            "high": 0.9428296905853112,
+            "rows": 5367,
+            "accuracy": 0.6921930314887275
+          },
+          {
+            "low": 0.9428296905853112,
+            "high": 0.9634951148421657,
+            "rows": 5108,
+            "accuracy": 0.7503915426781519
+          },
+          {
+            "low": 0.9634951148421657,
+            "high": 0.9797094126636954,
+            "rows": 5616,
+            "accuracy": 0.7797364672364673
+          },
+          {
+            "low": 0.9797094126636954,
+            "high": 0.9997789043424504,
+            "rows": 5757,
+            "accuracy": 0.8068438422789648
+          }
+        ]
+      },
+      "siglip": {
+        "member_selection_fraction": [
+          0.2348133982515562,
+          0.45635398549066275,
+          0.308832616257781
+        ],
+        "mean_support_entropy": 0.9541091088477378,
+        "median_support_entropy": 0.9619403092121913,
+        "mean_max_member_share": 0.45959941985536434,
+        "member_switch_fraction": 0.7247345294763823,
+        "mean_block_energy_entropy": 0.20227823815368043,
+        "support_entropy_correct": 0.9556877382615278,
+        "support_entropy_incorrect": 0.949150608725424,
+        "unique_atoms_used": 3384,
+        "total_atoms": 12288,
+        "unique_atom_fraction": 0.275390625,
+        "entropy_quantiles": [
+          {
+            "low": 0.6588149522949074,
+            "high": 0.9381304215369899,
+            "rows": 5435,
+            "accuracy": 0.706163753449862
+          },
+          {
+            "low": 0.9381304215369899,
+            "high": 0.9619403092121913,
+            "rows": 5401,
+            "accuracy": 0.7622662469912979
+          },
+          {
+            "low": 0.9619403092121913,
+            "high": 0.9785438166817101,
+            "rows": 5385,
+            "accuracy": 0.7736304549675023
+          },
+          {
+            "low": 0.9785438166817101,
+            "high": 0.9997789043424504,
+            "rows": 5627,
+            "accuracy": 0.7910076417273858
+          }
+        ]
+      },
+      "dino": {
+        "member_selection_fraction": [
+          0.23977309135847674,
+          0.4391055531398755,
+          0.3211213555016477
+        ],
+        "mean_support_entropy": 0.9588982847952658,
+        "median_support_entropy": 0.9668666280038232,
+        "mean_max_member_share": 0.447086117722446,
+        "member_switch_fraction": 0.7964573416331014,
+        "mean_block_energy_entropy": 0.476000812716982,
+        "support_entropy_correct": 0.9597094256884754,
+        "support_entropy_incorrect": 0.9563504783353971,
+        "unique_atoms_used": 5600,
+        "total_atoms": 12288,
+        "unique_atom_fraction": 0.4557291666666667,
+        "entropy_quantiles": [
+          {
+            "low": 0.5870116019467201,
+            "high": 0.9451686169704536,
+            "rows": 5454,
+            "accuracy": 0.7306563989732306
+          },
+          {
+            "low": 0.9451686169704536,
+            "high": 0.9668666280038232,
+            "rows": 5154,
+            "accuracy": 0.7605743112145906
+          },
+          {
+            "low": 0.9668666280038232,
+            "high": 0.9843368200230044,
+            "rows": 5721,
+            "accuracy": 0.7668239818213599
+          },
+          {
+            "low": 0.9843368200230044,
+            "high": 0.9997789043424504,
+            "rows": 5519,
+            "accuracy": 0.775502808479797
+          }
+        ]
+      }
+    }
+  },
+  "3": {
+    "rows": 51600,
+    "active_budget": 64,
+    "streams": {
+      "clip": {
+        "member_selection_fraction": [
+          0.3458969234496124,
+          0.27848958333333335,
+          0.3756134932170543
+        ],
+        "mean_support_entropy": 0.980231849598264,
+        "median_support_entropy": 0.9850568223215077,
+        "mean_max_member_share": 0.4052013687015504,
+        "member_switch_fraction": 0.9678294573643411,
+        "mean_block_energy_entropy": 0.3607029841458652,
+        "support_entropy_correct": 0.981859706064973,
+        "support_entropy_incorrect": 0.9797165873814455,
+        "unique_atoms_used": 3696,
+        "total_atoms": 12288,
+        "unique_atom_fraction": 0.30078125,
+        "entropy_quantiles": [
+          {
+            "low": 0.7923954197061627,
+            "high": 0.9715533226837412,
+            "rows": 12367,
+            "accuracy": 0.2123392900460904
+          },
+          {
+            "low": 0.9715533226837412,
+            "high": 0.9850568223215077,
+            "rows": 12914,
+            "accuracy": 0.24051417066749264
+          },
+          {
+            "low": 0.9850568223215077,
+            "high": 0.9936626487697717,
+            "rows": 13246,
+            "accuracy": 0.2541144496451759
+          },
+          {
+            "low": 0.9936626487697717,
+            "high": 0.9997789043424504,
+            "rows": 13073,
+            "accuracy": 0.2530406180677733
+          }
+        ]
+      },
+      "siglip": {
+        "member_selection_fraction": [
+          0.33686682412790697,
+          0.2921393531976744,
+          0.3709938226744186
+        ],
+        "mean_support_entropy": 0.9826701346843895,
+        "median_support_entropy": 0.9887000023560324,
+        "mean_max_member_share": 0.4010044210271318,
+        "member_switch_fraction": 0.9773449612403101,
+        "mean_block_energy_entropy": 0.26787031501501385,
+        "support_entropy_correct": 0.9835681143699425,
+        "support_entropy_incorrect": 0.982385898934556,
+        "unique_atoms_used": 2925,
+        "total_atoms": 12288,
+        "unique_atom_fraction": 0.238037109375,
+        "entropy_quantiles": [
+          {
+            "low": 0.7954533951862227,
+            "high": 0.9773819901080313,
+            "rows": 12802,
+            "accuracy": 0.22246523980628027
+          },
+          {
+            "low": 0.9773819901080313,
+            "high": 0.9887000023560324,
+            "rows": 12341,
+            "accuracy": 0.2413094562839316
+          },
+          {
+            "low": 0.9887000023560324,
+            "high": 0.9942812127803274,
+            "rows": 12787,
+            "accuracy": 0.24642214749354813
+          },
+          {
+            "low": 0.9942812127803274,
+            "high": 0.9997789043424504,
+            "rows": 13670,
+            "accuracy": 0.25084125822970005
+          }
+        ]
+      },
+      "dino": {
+        "member_selection_fraction": [
+          0.36499303536821703,
+          0.2664471293604651,
+          0.3685598352713178
+        ],
+        "mean_support_entropy": 0.970438028227616,
+        "median_support_entropy": 0.9785438166817101,
+        "mean_max_member_share": 0.422070918120155,
+        "member_switch_fraction": 0.9122093023255814,
+        "mean_block_energy_entropy": 0.34689748337026116,
+        "support_entropy_correct": 0.9733573413160062,
+        "support_entropy_incorrect": 0.9695139837775837,
+        "unique_atoms_used": 5827,
+        "total_atoms": 12288,
+        "unique_atom_fraction": 0.4742024739583333,
+        "entropy_quantiles": [
+          {
+            "low": 0.6699684610189904,
+            "high": 0.9586821929244638,
+            "rows": 12495,
+            "accuracy": 0.20784313725490197
+          },
+          {
+            "low": 0.9586821929244638,
+            "high": 0.9785438166817101,
+            "rows": 13206,
+            "accuracy": 0.23072845676207784
+          },
+          {
+            "low": 0.9785438166817101,
+            "high": 0.990087567592576,
+            "rows": 12074,
+            "accuracy": 0.24995858870299817
+          },
+          {
+            "low": 0.990087567592576,
+            "high": 0.9997789043424504,
+            "rows": 13825,
+            "accuracy": 0.2708137432188065
+          }
+        ]
+      }
+    }
+  },
+  "4": {
+    "rows": 51930,
+    "active_budget": 64,
+    "streams": {
+      "clip": {
+        "member_selection_fraction": [
+          0.36335662189485846,
+          0.34287713027151934,
+          0.2937662478336222
+        ],
+        "mean_support_entropy": 0.9849200447670524,
+        "median_support_entropy": 0.9894489003269826,
+        "mean_max_member_share": 0.39668784902753707,
+        "member_switch_fraction": 0.9823031003273638,
+        "mean_block_energy_entropy": 0.38034314914106104,
+        "support_entropy_correct": 0.9850937342640109,
+        "support_entropy_incorrect": 0.9836786580831104,
+        "unique_atoms_used": 4433,
+        "total_atoms": 12288,
+        "unique_atom_fraction": 0.3607584635416667,
+        "entropy_quantiles": [
+          {
+            "low": 0.7800040664425696,
+            "high": 0.9785438166817103,
+            "rows": 12405,
+            "accuracy": 0.8655380894800484
+          },
+          {
+            "low": 0.9785438166817103,
+            "high": 0.9894489003269826,
+            "rows": 13335,
+            "accuracy": 0.8748406449193851
+          },
+          {
+            "low": 0.9894489003269826,
+            "high": 0.9958004852534956,
+            "rows": 12810,
+            "accuracy": 0.8834504293520687
+          },
+          {
+            "low": 0.9958004852534956,
+            "high": 0.9997789043424504,
+            "rows": 13380,
+            "accuracy": 0.8846038863976083
+          }
+        ]
+      },
+      "siglip": {
+        "member_selection_fraction": [
+          0.3733743139803582,
+          0.3357990925284036,
+          0.2908265934912382
+        ],
+        "mean_support_entropy": 0.9837009564580091,
+        "median_support_entropy": 0.9888762283286965,
+        "mean_max_member_share": 0.39969971596379744,
+        "member_switch_fraction": 0.9768149431927595,
+        "mean_block_energy_entropy": 0.2520733285511681,
+        "support_entropy_correct": 0.983795598176955,
+        "support_entropy_incorrect": 0.9830245369179565,
+        "unique_atoms_used": 3954,
+        "total_atoms": 12288,
+        "unique_atom_fraction": 0.32177734375,
+        "entropy_quantiles": [
+          {
+            "low": 0.8183885510715834,
+            "high": 0.9779073152417729,
+            "rows": 12708,
+            "accuracy": 0.8685080264400378
+          },
+          {
+            "low": 0.9779073152417729,
+            "high": 0.9888762283286965,
+            "rows": 12946,
+            "accuracy": 0.8786497759925845
+          },
+          {
+            "low": 0.9888762283286965,
+            "high": 0.9958004852534954,
+            "rows": 12898,
+            "accuracy": 0.8807567064661188
+          },
+          {
+            "low": 0.9958004852534954,
+            "high": 0.9997789043424504,
+            "rows": 13378,
+            "accuracy": 0.8808491553296457
+          }
+        ]
+      },
+      "dino": {
+        "member_selection_fraction": [
+          0.3581326424995186,
+          0.3497526718659734,
+          0.292114685634508
+        ],
+        "mean_support_entropy": 0.9790599733143992,
+        "median_support_entropy": 0.9850568223215079,
+        "mean_max_member_share": 0.4085078471018679,
+        "member_switch_fraction": 0.9460042364721741,
+        "mean_block_energy_entropy": 0.4906224419183063,
+        "support_entropy_correct": 0.9793885781443651,
+        "support_entropy_incorrect": 0.9767113819065041,
+        "unique_atoms_used": 5973,
+        "total_atoms": 12288,
+        "unique_atom_fraction": 0.486083984375,
+        "entropy_quantiles": [
+          {
+            "low": 0.7307874278399658,
+            "high": 0.9715533226837412,
+            "rows": 12982,
+            "accuracy": 0.8593437066707749
+          },
+          {
+            "low": 0.9715533226837412,
+            "high": 0.9850568223215079,
+            "rows": 12755,
+            "accuracy": 0.879968639749118
+          },
+          {
+            "low": 0.9850568223215079,
+            "high": 0.9936626487697717,
+            "rows": 13005,
+            "accuracy": 0.8798923490965014
+          },
+          {
+            "low": 0.9936626487697717,
+            "high": 0.9997789043424504,
+            "rows": 13188,
+            "accuracy": 0.8896724294813467
+          }
+        ]
+      }
+    }
+  },
+  "5": {
+    "rows": 20871,
+    "active_budget": 64,
+    "streams": {
+      "clip": {
+        "member_selection_fraction": [
+          0.3908136589047003,
+          0.33540932993148387,
+          0.2737770111638158
+        ],
+        "mean_support_entropy": 0.9796822972383921,
+        "median_support_entropy": 0.9844640470681842,
+        "mean_max_member_share": 0.4090536809448517,
+        "member_switch_fraction": 0.9611901681759379,
+        "mean_block_energy_entropy": 0.40261186397980303,
+        "support_entropy_correct": 0.9806270727119285,
+        "support_entropy_incorrect": 0.9765437409852399,
+        "unique_atoms_used": 4050,
+        "total_atoms": 12288,
+        "unique_atom_fraction": 0.32958984375,
+        "entropy_quantiles": [
+          {
+            "low": 0.7908280489481784,
+            "high": 0.9715533226837412,
+            "rows": 5091,
+            "accuracy": 0.7228442349243763
+          },
+          {
+            "low": 0.9715533226837412,
+            "high": 0.9844640470681842,
+            "rows": 5262,
+            "accuracy": 0.7748004561003421
+          },
+          {
+            "low": 0.9844640470681842,
+            "high": 0.9932649289475832,
+            "rows": 5093,
+            "accuracy": 0.7906931081877087
+          },
+          {
+            "low": 0.9932649289475832,
+            "high": 0.9997789043424504,
+            "rows": 5425,
+            "accuracy": 0.7848847926267281
+          }
+        ]
+      },
+      "siglip": {
+        "member_selection_fraction": [
+          0.4107448732691294,
+          0.30859580877772985,
+          0.2806593179531407
+        ],
+        "mean_support_entropy": 0.9773214600928025,
+        "median_support_entropy": 0.982797376882175,
+        "mean_max_member_share": 0.4182208566911025,
+        "member_switch_fraction": 0.930573523070289,
+        "mean_block_energy_entropy": 0.28664810782308126,
+        "support_entropy_correct": 0.9780486194566547,
+        "support_entropy_incorrect": 0.9749058273500161,
+        "unique_atoms_used": 3687,
+        "total_atoms": 12288,
+        "unique_atom_fraction": 0.300048828125,
+        "entropy_quantiles": [
+          {
+            "low": 0.7534302806141476,
+            "high": 0.9688039099777048,
+            "rows": 5102,
+            "accuracy": 0.7261858094864759
+          },
+          {
+            "low": 0.9688039099777048,
+            "high": 0.982797376882175,
+            "rows": 4970,
+            "accuracy": 0.7655935613682092
+          },
+          {
+            "low": 0.982797376882175,
+            "high": 0.9932649289475831,
+            "rows": 5577,
+            "accuracy": 0.7909270216962525
+          },
+          {
+            "low": 0.9932649289475831,
+            "high": 0.9997789043424504,
+            "rows": 5222,
+            "accuracy": 0.7891612409038683
+          }
+        ]
+      },
+      "dino": {
+        "member_selection_fraction": [
+          0.3793975492309904,
+          0.31831922883426766,
+          0.302283221934742
+        ],
+        "mean_support_entropy": 0.9823130204841665,
+        "median_support_entropy": 0.9887000023560324,
+        "mean_max_member_share": 0.40321199271716734,
+        "member_switch_fraction": 0.9633941833165637,
+        "mean_block_energy_entropy": 0.4846387682817613,
+        "support_entropy_correct": 0.9830181634571634,
+        "support_entropy_incorrect": 0.9799705264744715,
+        "unique_atoms_used": 5831,
+        "total_atoms": 12288,
+        "unique_atom_fraction": 0.4745279947916667,
+        "entropy_quantiles": [
+          {
+            "low": 0.7908280489481784,
+            "high": 0.9755307720176264,
+            "rows": 4965,
+            "accuracy": 0.7266868076535751
+          },
+          {
+            "low": 0.9755307720176264,
+            "high": 0.9887000023560324,
+            "rows": 5351,
+            "accuracy": 0.7716314707531302
+          },
+          {
+            "low": 0.9887000023560324,
+            "high": 0.9958004852534954,
+            "rows": 5278,
+            "accuracy": 0.7881773399014779
+          },
+          {
+            "low": 0.9958004852534954,
+            "high": 0.9997789043424504,
+            "rows": 5277,
+            "accuracy": 0.7854841766155012
+          }
+        ]
+      }
+    }
+  }
+}
